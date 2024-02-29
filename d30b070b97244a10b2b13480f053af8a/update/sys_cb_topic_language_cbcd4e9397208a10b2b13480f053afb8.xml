@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Update NeedIt Records">03cdc69397208a10b2b13480f053af63</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"6b3ae8b133334499921676920aed5195","variable_name":"search_again","nlu_entity":"","nlu_entity_label":""},{"node_id":"864ff18c9efa4a2295524e0c917006d9","variable_name":"new_when_needed_date","nlu_entity":"","nlu_entity_label":""},{"node_id":"ed072b7a9b2a4e7ebc58b60c6cecac52","variable_name":"new_short_description","nlu_entity":"","nlu_entity_label":""},{"node_id":"a67aae5aee9d45799adb97dad931b4ac","variable_name":"field_selected","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model/>
+        <nlu_model_label/>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-29 13:38:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cbcd4e9397208a10b2b13480f053afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1322835_needit_v">d30b070b97244a10b2b13480f053af8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">d30b070b97244a10b2b13480f053af8a</sys_scope>
+        <sys_update_name>sys_cb_topic_language_cbcd4e9397208a10b2b13480f053afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 17:50:05</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
